@@ -45,7 +45,7 @@ export default function App() {
   };
 
   return (
-    <div className="form-holder">
+    <div className="form-holder-shortcode-custom">
       <h3>Choose a country</h3>
 
       <form onSubmit={handleSubmit} className="country-form" noValidate>
